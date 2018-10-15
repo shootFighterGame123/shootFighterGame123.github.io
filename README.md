@@ -10,7 +10,7 @@ https://shootfightergame123.github.io/ShootFighter/static/
 
 Поворот: Q E
 
-Стельба: R
+Стрельба: R
 
 > Цель игры
 
